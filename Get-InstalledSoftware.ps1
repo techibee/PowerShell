@@ -1,3 +1,6 @@
+#Visit below link for usage instructions and other details.
+# http://techibee.com/powershell/powershell-script-to-query-softwares-installed-on-remote-computer/1389
+
 [cmdletbinding()]
 param(
  [parameter(ValueFromPipeline=$true,ValueFromPipelineByPropertyName=$true)]
